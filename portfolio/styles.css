@@ -417,3 +417,103 @@ width:100%;
     margin-top: 10px;
     position: relative;
 }
+.skill-bar .bar span
+{
+    width: 50%;
+    height: 100%;
+    position: absolute;
+    left:0;
+    background-color: var(--hover-color);
+    border-radius: 25px;
+    box-shadow:var(--neon-box-shadow);
+}
+.skill-bar .bar .html
+{
+    width:90%;
+    animation:html 2s;
+}
+.skill-bar .bar .css
+{
+    width:80%;
+    animation:css 3s;
+}
+.skill-bar .bar .javascript
+{
+    width:80%;
+    animation:javascript 4s;
+}
+.skill-bar .bar .tailwind
+{
+    width:85%;
+    animation:tailwind 5s;
+}
+.skill-bar .bar .reactjs
+{
+    width:85%;
+    animation:tailwind 6s;
+}
+.backend 
+{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.box 
+{
+    margin:10px 0;
+    flex:1 1 15rem;
+}
+.box .text 
+{
+    text-align: center;
+    color:#fff;
+    font-size:1rem;
+}
+.box .text big{
+    font:400;
+    letter-spacing: 1px;
+    position: absolute;
+    top:152%;
+    left:63%;
+    transform: translate(-50%,-50%);
+}/* 
+.box .circle .points:nth-child(1)
+{
+    --i:1;
+}
+.box .circle .points:nth-child(2)
+{
+    --i:2;
+}
+.box .circle .points:nth-child(3)
+{
+    --i:3;
+} */
+.box .text small 
+{
+    display:block;
+    font-weight: 600;
+}
+.circle 
+{
+    width:100%;
+    height:120px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+.circle .points 
+{
+    width:2px;
+    height:10px;
+    background-color: var(--second-bg-color);
+    position: absolute;
+    border-radius: 3px;
+    transform: rotate(calc(var(--i)*var(--rot))) translateY(-45px);
+}
+
+.points.marked
+{
+    animation: glow 0.04s linear forwards;
+    animation-delay: calc(var(--i)*0.05s);
+}
