@@ -764,3 +764,70 @@ footer a
         margin-top:2rem;
     }
 }
+
+@media(max-width:768px)
+{
+    #menu-icon 
+    {
+        display:block;
+        transition: all .4s ease;
+    }
+    #menu-icon.bx-x 
+    {
+        transform: rotate(-180deg);
+    }
+    .hello 
+    {
+        display:flex;
+        position: absolute;
+        top:-1000px;
+        right:0;
+        left:0;
+        flex-direction: column;
+        background-color: var(--bg-color);
+        text-align:left;
+        padding:0 5%;
+        transition: all .4s ease;
+    }
+    .hello a 
+    {
+        display: block;
+        padding-bottom:1rem;
+        font-size: 1rem;
+    }
+    .hello.open 
+    {
+        top:100%;
+    }
+    .home 
+    {
+        grid-template-columns: 1fr;
+    }
+    .home-image 
+    {
+         margin-bottom:5rem;
+    }
+    .liquid-shape
+    {
+        width:80%;
+        left:10%;
+        top:13%;
+    }
+    .about 
+    {
+        flex-direction: column-reverse;
+    }
+    .skill-main 
+    {
+        grid-template-columns: 1fr;
+    }
+    /* .fillter-buttons
+    {
+        margin:2.5rem 0;
+    } */
+
+    footer p
+    {
+        font-size: .8rem;
+    }
+}
