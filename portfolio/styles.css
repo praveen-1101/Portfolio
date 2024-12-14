@@ -831,3 +831,30 @@ footer a
         font-size: .8rem;
     }
 }
+
+@media(max-width:420px)
+{
+    html 
+    {
+        font-size: 80%;
+    }
+    footer p
+    {
+        font-size: .6rem;
+    }
+   /*  .fillter-buttons .button 
+    {
+        font-size:.8rem;
+    } */
+    .img-about img 
+    {/* 
+        max-width: 100%;
+        height:auto; */
+        width:300px;
+    }
+    .img-about p 
+    {
+        font-size:1rem;
+
+    }
+}
