@@ -730,3 +730,37 @@ footer a
         transform: translateY(0);
     }
 }
+@media(max-width:991px)
+{
+    header,
+    header.sticky 
+    {
+        padding:15px 5%;
+    }
+    footer 
+    {
+        padding:15px 5%;
+    }
+    section 
+    {
+        padding:50px 5%;
+    }
+    .hello a 
+    {
+        padding:8px 15px; 
+    }
+    :root{
+        --big-font:2.2rem;
+        --normal-font:1.8rem;
+        --neon-box-shadow:0 0 .8rem #12f7ff;
+        --h2-font:3rem;
+    }
+    .home-content 
+    {
+        margin-top:5rem;
+    }
+    .social-icons 
+    {
+        margin-top:2rem;
+    }
+}
