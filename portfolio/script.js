@@ -121,4 +121,11 @@ const observer = new IntersectionObserver(entries=>
         });
     }
     );
+    const scrollScale = document.querySelectorAll(".scroll-scale"); 
+    scrollScale.forEach((el)=>observer.observe(el));
     
+    const scrollBottom = document.querySelectorAll(".scroll-bottom"); 
+    scrollBottom.forEach((el)=>observer.observe(el));
+    
+    const scrollTop = document.querySelectorAll(".scroll-top"); 
+    scrollScale.forEach((el)=>observer.observe (el));
