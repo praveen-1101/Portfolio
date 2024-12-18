@@ -1,11 +1,9 @@
 # Portfolio
 Welcome to my personal portfolio repository! <br><br>
-<strong>
-I am a 3rd-year B.Tech undergraduate student passionate about technology, problem-solving, and building impactful digital solutions.<br>
-</strong>
+
 <br>This is a showcase of my journey, skills, projects, and accomplishments as I strive to grow in the field of technology. 🌐💻
-Hi, I’m Praveen Kumar! 👋
-I am a 3rd-year B.Tech undergraduate student passionate about technology, problem-solving, and building impactful digital solutions.
+<strong>Hi, I’m Praveen Kumar! 👋
+I am a 3rd-year B.Tech undergraduate student passionate about technology, problem-solving, and building impactful digital solutions.</strong>
 <br>
 <h3>Who I Am 🚀</h3>
 <ul>
