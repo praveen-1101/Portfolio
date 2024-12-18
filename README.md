@@ -1,5 +1,5 @@
 # Portfolio
-Welcome to my personal portfolio repository! <br><nr>
+Welcome to my personal portfolio repository! <br><br>
 <strong>
 I am a 3rd-year B.Tech undergraduate student passionate about technology, problem-solving, and building impactful digital solutions.<br>
 </strong>
