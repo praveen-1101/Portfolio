@@ -13,3 +13,8 @@ This is a personal portfolio website designed to showcase skills, projects, and 
 <li>CSS3 (Tailwind CSS)</li>
 <li>JavaScript</li>
 <li>React.js</li>
+<h3>Future Enhancements</h3>
+<li>Add dark/light mode toggle for better accessibility.</li>
+<li>Expand the project showcase with detailed case studies.</li>
+<li>Integrate a blog section to share articles or updates.</li>
+<li>Include multilingual support for a wider audience.</li>
