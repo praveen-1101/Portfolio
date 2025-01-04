@@ -8,7 +8,7 @@ This is a personal portfolio website designed to showcase skills, projects, and 
 <li>Contact Form: Visitors can easily reach out through a functional contact form.</li>
 <li>Social Media Links: Quick access to LinkedIn, GitHub, and other profiles.</li>
 <h3>Technologies Used</h3>
-<strong>Frontend</strong>
+<h3>Frontend</h3>
 <li>HTML5</li>
 <li>CSS3 (Tailwind CSS)</li>
 <li>JavaScript</li>
