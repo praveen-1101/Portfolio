@@ -22,3 +22,6 @@ This is a personal portfolio website designed to showcase skills, projects, and 
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
 <h3>License</h3>
 This project is licensed under the MIT License.
+<h3>Contact</h3>
+For any questions or suggestions, please reach out at:
+<li>GitHub: praveen-1101</li>
