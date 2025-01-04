@@ -18,3 +18,6 @@ This is a personal portfolio website designed to showcase skills, projects, and 
 <li>Expand the project showcase with detailed case studies.</li>
 <li>Integrate a blog section to share articles or updates.</li>
 <li>Include multilingual support for a wider audience.</li>
+<h3>Contributions</h3>
+
+Feel free to fork this repository and submit pull requests. Contributions are welcome!
